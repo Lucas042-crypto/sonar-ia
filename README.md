@@ -1,4 +1,4 @@
-# sonar-ia
+# SonarQuebe integrado com IA para analise de codigo JAVA
 SonarQube integrado com chatGPT
 
 
