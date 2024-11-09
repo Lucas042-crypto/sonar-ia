@@ -1,0 +1,10 @@
+br\com\younkoudev\SonarIA\model\SonarResponse$Location.class
+br\com\younkoudev\SonarIA\service\IAService.class
+br\com\younkoudev\SonarIA\SonarIaApplication.class
+br\com\younkoudev\SonarIA\model\SonarResponse$Flow.class
+br\com\younkoudev\SonarIA\config\Config.class
+br\com\younkoudev\SonarIA\model\SonarResponse$Issue.class
+br\com\younkoudev\SonarIA\model\SonarResponse$TextRange.class
+br\com\younkoudev\SonarIA\model\SonarResponse.class
+br\com\younkoudev\SonarIA\model\SonarResponse$Paging.class
+br\com\younkoudev\SonarIA\service\SonarService.class
